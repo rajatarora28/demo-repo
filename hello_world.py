@@ -12,4 +12,4 @@ df = pd.read_csv("data.csv")
 
 
 #Third Part
-
+df = df[['Name','Age','Sex']]
