@@ -1,22 +1,10 @@
-#First Part
+#Import Modules
 import pandas as pd
 import requests
 from pprint import pprint
 
-print("Libraries Imported...")
-
-
-#Second Part
-df = pd.read_csv("data.csv")
+#Read Data from csv
 
 
 
-#Third Part
-df = df[['Name','Age','Sex']]
-#dfdsfdb
-
-
-
-#dkfjdsfdsfkjb
-
-
+#Select only Name, Age and Gender
