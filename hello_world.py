@@ -7,6 +7,8 @@ print("Libraries Imported...")
 
 
 #Second Part
+df = pd.read_csv("data.csv")
+
 
 
 #Third Part
