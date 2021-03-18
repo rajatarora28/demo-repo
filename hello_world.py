@@ -10,3 +10,4 @@ df = pd.read_csv("data.csv")
 
 
 #Select only Name, Age and Gender
+df = df[['name','age','gender']]
