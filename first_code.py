@@ -1,5 +1,4 @@
-print("hello rajat!")
-print("This is a new line on Remote Repo")
+print("hello World!")
 print("Intro to git")
 
 print("Three")
